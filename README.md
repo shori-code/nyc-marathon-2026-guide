@@ -1,6 +1,6 @@
 # NYC Marathon 2026 Race Week Guide
 
-An independent, searchable guide to 370 shakeouts, pop-ups, talks, carb-load dinners, cheer zones and
+An independent, searchable guide to 373 shakeouts, pop-ups, talks, carb-load dinners, cheer zones and
 after-parties around the 2026 TCS New York City Marathon (Sat Oct 24 – Tue Nov 3, including post-race and Medal Monday events).
 
 Live site: https://shori-code.github.io/nyc-marathon-2026-guide/
